@@ -1,5 +1,5 @@
 {
-  "name": "claude-nippou",
+  "name": "nippou-plugin",
   "version": "1.0.0",
   "description": "日報を月次ファイルに記録するツール。作業内容をカテゴリ分類して追記",
   "author": { "name": "mkent" },

@@ -1,4 +1,4 @@
-# claude-nippou
+# nippou-plugin
 
 日報を月次ファイルに記録するClaude Codeプラグイン。作業内容をカテゴリ分類して追記します。
 
@@ -48,7 +48,7 @@ Claude Codeで以下のコマンドを実行:
 ## ファイル構造
 
 ```
-claude-nippou/
+nippou-plugin/
 ├── .claude-plugin/
 │   └── plugin.json
 ├── commands/
