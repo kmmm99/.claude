@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "日報を月次ファイルに記録するツール。作業内容をカテゴリ分類して追記",
   "author": { "name": "mkent" },
-  "repository": "https://github.com/mkent/claude-nippou",
+  "repository": "https://github.com/kmmm99/nippou-plugin",
   "license": "MIT",
   "keywords": ["japanese", "nippou", "日報", "work-log"]
 }
