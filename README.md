@@ -60,6 +60,8 @@ Claude Codeで以下のコマンドを実行します。
 
 ```markdown
 - **ベースディレクトリ**: `~/Documents/claude-outputs/nippou/`
+- **日報ファイル**: `~/Documents/claude-outputs/nippou/nippou_yyyymm.md`
+- **過去月退避先**: `~/Documents/claude-outputs/nippou/nippou_old/`
 ```
 
 ## ファイル構造

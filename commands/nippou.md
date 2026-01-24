@@ -8,8 +8,8 @@
 ## 保存先
 
 - **ベースディレクトリ**: `~/Documents/claude-outputs/nippou/`
-- **日報ファイル**: `{ベースディレクトリ}/nippou_yyyymm.md`
-- **過去月退避先**: `{ベースディレクトリ}/nippou_old/`
+- **日報ファイル**: `~/Documents/claude-outputs/nippou/nippou_yyyymm.md`
+- **過去月退避先**: `~/Documents/claude-outputs/nippou/nippou_old/`
 
 ## 実行手順
 
