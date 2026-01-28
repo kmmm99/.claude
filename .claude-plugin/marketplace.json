@@ -10,7 +10,10 @@
   "plugins": [
     {
       "name": "nippou",
-      "source": ".",
+      "source": {
+        "source": "github",
+        "repo": "kmmm99/nippou-plugin"
+      },
       "description": "日報を月次ファイルに記録するツール。作業内容をカテゴリ分類して追記",
       "version": "1.0.0",
       "author": {
