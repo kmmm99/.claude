@@ -1,0 +1,25 @@
+{
+  "name": "nippou-plugin",
+  "owner": {
+    "name": "mkent"
+  },
+  "metadata": {
+    "description": "日報を月次ファイルに記録するClaude Codeプラグイン",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "nippou",
+      "source": ".",
+      "description": "日報を月次ファイルに記録するツール。作業内容をカテゴリ分類して追記",
+      "version": "1.0.0",
+      "author": {
+        "name": "mkent"
+      },
+      "repository": "https://github.com/kmmm99/nippou-plugin",
+      "license": "MIT",
+      "keywords": ["japanese", "nippou", "日報", "work-log"],
+      "category": "productivity"
+    }
+  ]
+}
