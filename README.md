@@ -13,7 +13,7 @@
 #### 2. プラグインをインストール
 
 ```bash
-/plugin install nippou@kmmm99/nippou-plugin
+/plugin install nippou-plugin@kmmm99/nippou-plugin
 ```
 
 ## 使用方法

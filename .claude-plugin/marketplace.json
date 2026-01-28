@@ -9,7 +9,7 @@
   },
   "plugins": [
     {
-      "name": "nippou",
+      "name": "nippou-plugin",
       "source": {
         "source": "github",
         "repo": "kmmm99/nippou-plugin"
