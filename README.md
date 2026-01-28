@@ -4,27 +4,16 @@
 
 ## インストール
 
-### マーケットプレイス経由（推奨）
+#### 1. マーケットプレイスを追加
 
 ```bash
-# 1. マーケットプレイスを追加
 /plugin marketplace add kmmm99/nippou-plugin
+```
 
-# 2. プラグインをインストール
+#### 2. プラグインをインストール
+
+```bash
 /plugin install nippou@kmmm99/nippou-plugin
-```
-
-### その他のインストール方法
-
-```bash
-/plugins install github:kmmm99/nippou-plugin
-```
-
-または、ローカルインストール:
-
-```bash
-# ~/.claude/plugins/local/ にクローン
-git clone https://github.com/kmmm99/nippou-plugin ~/.claude/plugins/local/nippou-plugin
 ```
 
 ## 使用方法
