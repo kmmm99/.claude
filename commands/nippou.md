@@ -2,19 +2,19 @@
 
 ## 概要
 
-このチャットセッションで行った作業内容を、`~/Documents/claude-outputs/nippou/` の当月ファイル `nippou_yyyymm.md` に追記する。
+このチャットセッションで行った作業内容を、`.claude/nippou/` の当月ファイル `nippou_yyyymm.md` に追記する。
 月を跨いで当月ファイルが存在しない場合は、前月ファイルを `nippou_old/` に移動し、当月ファイルを新規作成する。
 
 ## 保存先
 
-- **ベースディレクトリ**: `~/Documents/claude-outputs/nippou/`
-- **日報ファイル**: `~/Documents/claude-outputs/nippou/nippou_yyyymm.md`
-- **過去月退避先**: `~/Documents/claude-outputs/nippou/nippou_old/`
+- **ベースディレクトリ**: `.claude/nippou/`
+- **日報ファイル**: `.claude/nippou/nippou_yyyymm.md`
+- **過去月退避先**: `.claude/nippou/nippou_old/`
 
 ## 実行手順
 
 1. 本日の日付を取得（`yyyy-mm-dd`）し、当月の `yyyymm`（例: `202601`）を算出
-2. 当月の対象ファイルを `~/Documents/claude-outputs/nippou/nippou_yyyymm.md` として決定
+2. 当月の対象ファイルを `.claude/nippou/nippou_yyyymm.md` として決定
 3. 月跨ぎ/初回の判定とファイル整理
    - 当月の `nippou_yyyymm.md` が存在する場合：そのまま読み込む
    - 存在しない場合：

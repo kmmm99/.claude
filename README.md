@@ -60,9 +60,9 @@ Claude Codeで以下のコマンドを実行します。
 保存先ディレクトリを変更する場合は、`commands/nippou.md` 内の以下の行を編集:
 
 ```markdown
-- **ベースディレクトリ**: `~/Documents/claude-outputs/nippou/`
-- **日報ファイル**: `~/Documents/claude-outputs/nippou/nippou_yyyymm.md`
-- **過去月退避先**: `~/Documents/claude-outputs/nippou/nippou_old/`
+- **ベースディレクトリ**: `.claude/nippou/`
+- **日報ファイル**: `.claude/nippou/nippou_yyyymm.md`
+- **過去月退避先**: `.claude/nippou/nippou_old/`
 ```
 
 ## ファイル構造
@@ -88,4 +88,4 @@ MIT License
 ---
 
   **作成日**: 2026-01-25  
-  **最終更新日**: 2026-01-25  
+  **最終更新日**: 2026-02-03  
