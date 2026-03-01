@@ -1,8 +1,8 @@
 # .claude
 
-Claude plugins monorepo.
+kmmm99のplugins/skills保管庫です。
 
-- Japanese (日本語): [README.ja.md](README.ja.md)
+- [japanese(日本語)](README.ja.md)
 
 ## Marketplace Plugins
 

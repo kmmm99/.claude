@@ -1,8 +1,8 @@
 # .claude
 
-Claude プラグインのモノレポです。
+kmmm99のplugins/skills保管庫です。
 
-- English: [README.md](README.md)
+- [English](README.md)
 
 ## Marketplace プラグイン
 
