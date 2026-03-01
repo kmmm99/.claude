@@ -1,6 +1,6 @@
 # .claude
 
-kmmm99のplugins/skills保管庫です。
+This repository is kmmm99's plugins/skills archive.
 
 - [japanese(日本語)](README.ja.md)
 
@@ -15,3 +15,4 @@ kmmm99のplugins/skills保管庫です。
 
 This repository imports plugin histories with `git subtree` (non-squash).
 If upstream repositories are updated, sync with `git subtree pull` for each prefix.
+
