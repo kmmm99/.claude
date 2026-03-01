@@ -2,6 +2,8 @@
 
 Claude plugins monorepo.
 
+- Japanese (日本語): [README.ja.md](README.ja.md)
+
 ## Marketplace Plugins
 
 - `plugins/marketplace/nippou-plugin`
@@ -13,4 +15,3 @@ Claude plugins monorepo.
 
 This repository imports plugin histories with `git subtree` (non-squash).
 If upstream repositories are updated, sync with `git subtree pull` for each prefix.
-
